@@ -1,6 +1,6 @@
 # CouponSystem-Core
 --------------------------------
-Coupon System allows companies to create custom made coupons. Then, logged in customers can purchase coupons. The system will log all the different actions that companies and customers can make.
+Coupon System allows companies to create custom made coupons. Logged in customers can then purchase coupons and interact with them. The system will log all the different actions that companies and customers make.
 
 The project contains the core parts of the system. This layer is responsible for receiving, storing and managing data in the Database. 
 A demo class is included for your convenience.
